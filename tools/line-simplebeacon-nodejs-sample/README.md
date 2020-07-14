@@ -31,9 +31,10 @@ Control local Bluetooth LE Controller to advertise LINE Simple Beacon's packet.
 
 ## EXECUTE
 
-    $ sudo ./simplebeacon.js --hwid=a1b2c3d4e5
+    $ sudo ./simplebeacon.js --hwid=013fc66854
     
-    $ sudo ./simplebeacon.js -h # show usage
+    $ sudo ./simplebeacon.js -h # show usage哈囉
+    
 
 ## LICENSE
 
